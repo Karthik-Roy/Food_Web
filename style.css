@@ -1,0 +1,97 @@
+html {
+  background-color: rgb(218, 40, 218);
+}
+body {
+  background: linear-gradient(45deg, pink, rgb(218, 40, 218), pink);
+}
+div {
+  display: block;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar-brand {
+  font-size: 2em;
+  padding: 1em;
+}
+#dp {
+  background: linear-gradient(45deg, darkblue, black);
+  width: 50%;
+  color: white;
+  padding: 10px;
+  border-radius: 50%;
+  margin: 10px auto;
+  text-align: center;
+}
+.text {
+  background-color: rgb(218, 40, 218);
+}
+
+#pizza {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+#dp {
+  background: linear-gradient(45deg, darkblue, black);
+  width: 50%;
+  color: white;
+  padding: 10px;
+  border-radius: 50%;
+  margin: 10px auto;
+}
+figure {
+  margin-top: 15px;
+}
+figure {
+  border-collapse: separate;
+  box-sizing: border-box;
+  text-indent: initial;
+  border-spacing: 2px;
+  border-color: grey;
+}
+figure img {
+  margin: 20px;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  text-align: center;
+}
+#dk {
+  background: linear-gradient(45deg, darkblue, black);
+  width: 50%;
+  color: white;
+  padding: 10px;
+  border-radius: 50%;
+  margin: 10px auto;
+}
+.figure-caption {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+img {
+  border-radius: 50px;
+  box-shadow: 0 0 10px black;
+  margin: 2em;
+}
+.col-12 {
+  text-align: center;
+}
+#footer {
+  text-align: center;
+  background: black;
+  color: cornsilk;
+  margin-top: 30px;
+  padding: 20px;
+}
+#footer a {
+  color: cornsilk;
+  text-decoration: none;
+  margin-right: 25px;
+}
